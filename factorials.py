@@ -10,3 +10,7 @@ for i in range(0, n, 1):
     facn = facn*(i+1)
 
 print(n,"!", " = ", facn, sep="")
+
+
+going to edit and committ this, but will not merge
+
